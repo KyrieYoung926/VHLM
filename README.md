@@ -1,5 +1,10 @@
 # VHLM: Vision-based Humanoid Loco-Manipulation
 
+<p align="center">
+  <img src="2.png" width="45%" />
+  <img src="1.png" width="45%" />
+</p>
+
 A hierarchical control system for humanoid robots based on Genesis simulator, (will be) supporting vision-guided locomotion and manipulation task.
 
 ## Project Structure
